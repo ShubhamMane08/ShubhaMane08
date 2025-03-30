@@ -36,7 +36,7 @@
 <a href="https://github.com/ShubhamMane08/vrp_hill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=vrp_hill&theme=transparent"
  alt="C++"></a>
 <a href="https://github.com/ShubhamMane08/Core-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Core-Java&theme=transparent" alt="Core Java"></a>
-<a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
+<a href="https://github.com/ShubhamMane08/Yoga-AI-Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Yoga-AI-Trainer&theme=transparent" alt="Java"></a>
 <a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
 <a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
 <a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
