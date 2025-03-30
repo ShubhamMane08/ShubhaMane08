@@ -37,22 +37,23 @@
  alt="C++"></a>
 <a href="https://github.com/ShubhamMane08/Core-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Core-Java&theme=transparent" alt="Core Java"></a>
 <a href="https://github.com/ShubhamMane08/Yoga-AI-Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Yoga-AI-Trainer&theme=transparent" alt="Java"></a>
-<a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
-<a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
-<a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
+<a href="https://github.com/ShubhamMane08/Bike-Clinic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Bike-Clinic&theme=transparent" alt="React"></a>
+
+<a href="https://github.com/ShubhamMane08/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
+<a href="https://github.com/ShubhamMane08/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=portfolio&theme=transparent" alt="PHP"></a>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamMane08&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" alt='Profile'/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamMane08&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamMane08&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamMane08&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamMane08&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamMane08&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamMane08&theme=transparent" alt='Profile'/>
 </div>
 <br>
 <p align="center">
@@ -68,7 +69,7 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/">
+  <a href="https://linkedin.com/in/ShubhamMane08/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
