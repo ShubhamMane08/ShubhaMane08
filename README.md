@@ -33,7 +33,7 @@
 <br>
 <h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
-<a href="https://github.com/ShubhamMane08/Core-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=auction-platform&theme=transparent" alt="C"></a>
+<a href="https://github.com/shubhammane08/vrp_hill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=auction-platform&theme=transparent" alt="C++"></a>
 <a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
 <a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
 <a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
