@@ -63,7 +63,7 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://shubham.vercel.app">
+  <a href="https://shubhammane.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
