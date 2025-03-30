@@ -59,11 +59,11 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com">
+  <a href="mailto:shubhammanecr7@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.vercel.app">
+  <a href="https://shubham.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
