@@ -67,7 +67,7 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a> -->
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ShubhamMane08/">
+  <a href="https://linkedin.com/in/shubham-mane-it/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
