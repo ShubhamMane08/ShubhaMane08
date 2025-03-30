@@ -39,7 +39,7 @@
 <a href="https://github.com/ShubhamMane08/Yoga-AI-Trainer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Yoga-AI-Trainer&theme=transparent" alt="Java"></a>
 <a href="https://github.com/ShubhamMane08/Bike-Clinic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=Bike-Clinic&theme=transparent" alt="React"></a>
 
-<a href="https://github.com/ShubhamMane08/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
+<a href="https://github.com/ShubhamMane08/codify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=codify&theme=transparent" alt="JavaScript"></a>
 <a href="https://github.com/ShubhamMane08/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamMane08&repo=portfolio&theme=transparent" alt="PHP"></a>
 </div>
 <br>
