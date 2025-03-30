@@ -63,9 +63,9 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://shubham.vercel.app">
+  <!-- <a href="https://shubham.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ShubhamMane08/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
