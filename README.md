@@ -52,7 +52,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamMane08&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamMane08&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamMane08&theme=transparent" alt='Profile'/>
-  <img alt="github contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMane08" style="visibility:visible;max-width:100%;">
+
 </div>
 <br>
 <p align="center">
